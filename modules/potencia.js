@@ -4,4 +4,4 @@ function potencia(base, exponente) {
 
 let resultado = potencia(base, exponente);
 
-console.log(resultado);
+module.exports = potencia;
