@@ -6,6 +6,6 @@ TP Julian Aquino
 Integrantes:
 
 - Lucas Samudio
-- Adrian Claverio
+- Adrian Clavario
 - Jainen Albornoz
 - Alberto Ruis
